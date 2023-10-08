@@ -75,6 +75,5 @@ print(len(x_test))
 ![EX14](https://github.com/Dhanashreemullaithasan/Ex.No.1---Data-Preprocessing/assets/94165415/b0bab1ef-b621-4b48-9d3d-6b5ef2cbf5b1)
 ![EX15](https://github.com/Dhanashreemullaithasan/Ex.No.1---Data-Preprocessing/assets/94165415/8fbe5927-3229-44f9-8c11-ee9ca5d1b9c1)
 ![EX16](https://github.com/Dhanashreemullaithasan/Ex.No.1---Data-Preprocessing/assets/94165415/d7cea8b8-c795-49ec-ab9a-e20ca0c63d26)
-
 ## RESULT :
 Hence the data preprocessing is done using the above code and data has been splitted into trainning and testing data for getting a better model.
